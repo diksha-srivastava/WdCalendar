@@ -10,7 +10,7 @@ FireFox2.0+ IE6+ Opera9+ Safari3+ Chrome
 
 WHATS NEW
 
-Current WdCalendar code has mysqli connections , hence has no problem with lower PHP versions and some jqery bugs has been fixed.
+Current WdCalendar code has mysqli connections , hence has no problem with lower PHP versions and some jquery bugs has been fixed.
 
 WHY SHOULD YOU DOWNLOAD
 
